@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<root>
+<table id="1" key="tip" value="F1 again or ESC to return to game." desc="而我" />
+<table id="2" key="help" value="Show this list of commands" desc="平台旋转速度" />
+<table id="3" key="scenes" value="jump to scene Login Main Build Code1 Code2 Code3" desc="" />
+<table id="4" key="clear" value="Clear the console" desc="是否是debug模式(0是false,1是true）" />
+<table id="5" key="invoke GameObjectMethodName" value="Call method 'MethodName' on target GameObject" desc="在主场景是否可以移动(0是false,1是true）" />
+<table id="6" key="saveFilename" value="Save current game to 'filename' (only filename, no extension)" desc="背景声音大小" />
+<table id="7" key="loadFilename" value="Load a previously saved game" desc="声音音量大小" />
+<table id="8" key="build" value="Enable/disable build mode" desc="手柄射线可用时的颜色" />
+<table id="9" key="teleport x y z" value="Instantly teleport player to x y z location" desc="手柄射线不可用时的颜色" />
+<table id="10" key="stuck" value="Moves player on top of ground" desc="是否可瞬移" />
+<table id="11" key="inventory rows columns" value="Changes inventory panel size" desc="上升和下降的速度" />
+<table id="12" key="viewDistance dist" value="Sets visible chunk distance (2-20)" desc="是否开启手柄提示" />
+<table id="13" key="debug" value="Shows debug info about the last voxel hit" desc="视觉效果质量" />
+<table id="14" key="keys" value="Show available keys and actions" desc="移动速度" />
+<table id="15" key="F1" value="run build process" desc="" />
+<table id="16" key="F2" value="run program process" desc="" />
+<table id="17" key="F3" value="Main Scene" desc="" />
+<table id="18" key="F4" value="jump to Build" desc="" />
+<table id="19" key="F5" value="jump to Login" desc="" />
+<table id="20" key="Esc" value="closes all windows" desc="" />
+<table id="21" key="F8" value="toggle FPS" desc="" />
+<table id="22" key="Tab" value="" desc="" />
+</root>

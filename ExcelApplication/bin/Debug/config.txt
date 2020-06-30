@@ -1,0 +1,7 @@
+﻿excelFile
+output\DataTable
+output\EntityAndDBModelScript
+output\DataTableCreate
+output\GameData
+output\LocalDataCreate
+output\xml

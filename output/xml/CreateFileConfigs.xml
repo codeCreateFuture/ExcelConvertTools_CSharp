@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<root>
+<table id="1" entityBaseName="AbstractEntity" dbModelBaseName="AbstractDBModel" isCreateReadXmlFun="true" isCreateReadJsonFun="true" isCreateXmlFile="true" isCreateJsonFile="true" isCreateEntityFile="true" isCreateDBModelFile="true" isCreateByteFile="true" />
+</root>

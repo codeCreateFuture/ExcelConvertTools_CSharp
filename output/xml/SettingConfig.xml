@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<root>
+<table id="1" key="rotateSpeed" value="1" desc="平台旋转速度" />
+<table id="2" key="moveSpeed" value="1" desc="移动速度" />
+<table id="3" key="isDebug" value="1" desc="是否是debug模式(0是false,1是true）" />
+<table id="4" key="canMoveInMainScene" value="1" desc="在主场景是否可以移动(0是false,1是true）" />
+<table id="5" key="bgVolume" value="1" desc="背景声音大小" />
+<table id="6" key="audioVolume" value="1" desc="声音音量大小" />
+<table id="7" key="handRayValidColor" value="93FF85FF" desc="手柄射线可用时的颜色" />
+<table id="8" key="handRayInvalidColor" value="AFBCACFF" desc="手柄射线不可用时的颜色" />
+<table id="9" key="isPlayBg" value="1" desc="是否播放背景声音" />
+<table id="10" key="isTeleport" value="1" desc="是否可瞬移" />
+<table id="11" key="upAndDownSpeed" value="1" desc="上升和下降的速度" />
+<table id="12" key="isShowHandleTip" value="1" desc="是否开启手柄提示" />
+<table id="13" key="viewEffectLevel" value="1" desc="视觉效果质量" />
+<table id="14" key="isRotateByCamera" value="1" desc="Ui是否跟随摄像机旋转" />
+<table id="15" key="isUseSceneQuality" value="1" desc="是否启用多级场景(根据设备性能加载不同场景)" />
+<table id="16" key="isUseRuntimeDataTable" value="1" desc="是否启用运行时更改配置数据" />
+<table id="17" key="isUseConsoleWindow" value="1" desc="是否使用自定义控制台窗口" />
+<table id="18" key="isConnectServer" value="1" desc="是否连接服务器" />
+<table id="19" key="isLocalServer" value="1" desc="是否是本地服务器(0是本地,1是外网服务器）" />
+</root>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<root>
+<table Id="1" key="entityBaseName" value="DataTableEntityBase" desc="实体基类名称" />
+<table Id="2" key="dbModelBaseName" value="DataTableDBModelBase" desc="数据访问基类名称" />
+<table Id="3" key="isCreateReadXmlFun" value="1" desc="是否生成读取Xml方法(0是false,1是true）" />
+<table Id="4" key="isCreateReadJsonFun" value="1" desc="是否生成读取Json方法(0是false,1是true）" />
+<table Id="5" key="isCreateXmlFile" value="1" desc="是否生成Xml文件(0是false,1是true）" />
+<table Id="6" key="isCreateJsonFile" value="1" desc="是否生成json文件(0是false,1是true）" />
+<table Id="7" key="isCreateEntityFile" value="1" desc="是否生成实体文件(0是false,1是true）" />
+<table Id="8" key="isCreateDBModelFile" value="1" desc="是否生成数据访问文件(0是false,1是true）" />
+<table Id="9" key="isCreateByteFile" value="1" desc="是否生成二进制文件(0是false,1是true）" />
+<table Id="10" key="excelPath" value="excelFile" desc="excel配置文件的路径" />
+<table Id="11" key="createXmlPath" value="output\xml" desc="生成xml文件的路径" />
+<table Id="12" key="createEntityPath" value="output\entity" desc="生成实体文件的路径" />
+<table Id="13" key="createDbModelPath" value="output\dbModel" desc="生成数据访问文件的路径" />
+<table Id="14" key="createConstPath" value="output\Const" desc="生成数据访问文件的路径" />
+</root>
